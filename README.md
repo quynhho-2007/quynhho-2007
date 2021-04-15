@@ -14,7 +14,7 @@
 ### Some more information about me
 
 - 🔭 I’m currently working on EpicRes project: an app to view awesome recipes and order all ingredients to make one recipes.
-- 💻 I'm searching resources for my next project: An app that suggests activities based on Weather API, GeoLocation, etc. 
+- 💻 I'm researching on resources for my next project: An app that suggests activities based on Weather API, GeoLocation, etc. 
 - 🌱 I’m currently learning TypeScript, SQL and Scrum.
 - 💬 Ask me about anything on [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/quynh-ho-420188171/) 
 
@@ -30,7 +30,6 @@
 <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="CSS3" height="40" style="vertical-align:top; margin:4px">
 <img src="https://cdn.worldvectorlogo.com/logos/css-5.svg" alt="CSS3" height="40" style="vertical-align:top; margin:4px">
 <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="HTML5" height="40" style="vertical-align:top; margin:4px">
- <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="Sass" height="40" style="vertical-align:top; margin:4px">
 <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="Material-ui" height="40" style="vertical-align:top; margin:4px">
 <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="Bootstrap" height="40" style="vertical-align:top; margin:4px">
 </p>
