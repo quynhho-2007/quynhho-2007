@@ -1,16 +1,19 @@
 ### Hey, I'm Quynh Ho Vu Thao 👋
 
-A passionate Junior Full Stack Developer from Vietnam, living in the Netherlands🇳🇱 !
+### A passionate Junior Full Stack Developer from Vietnam, living in the Netherlands🇳🇱 !
 
-👩‍💻 Currently a student at Codaisseur (Feb 2021 - Apr 2021)
-📍 Nijmegen, Netherlands
-📥 Reach me here: hovuthaoquynh@gmail.com or you can find me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/quynh-ho-420188171/) 
-Language and Tools:
+- 👩‍💻 Currently a student at Codaisseur (Feb 2021 - Apr 2021)
+- I am looking for a Full-Stack Developer position
+- 📍 Nijmegen, Netherlands
+- 📥 Reach me here: hovuthaoquynh@gmail.com or you can find me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/quynh-ho-420188171/) 
 
-🔭 I’m currently working on EpicRes project: an app to view awesome recipes and order all ingredients to make one recipes.
-🌱 I’m currently learning TypeScript, SQL and Scrum.
-👯 I’m looking to collaborate on ...
-💬 Ask me about anything on Linkedin
+
+### Some more information about me
+
+- 🔭 I’m currently working on EpicRes project: an app to view awesome recipes and order all ingredients to make one recipes.
+- 💻 I'm searching resources for my next project: An app that suggests activities based on Weather API, GeoLocation, etc. 
+- 🌱 I’m currently learning TypeScript, SQL and Scrum.
+- 💬 Ask me about anything on [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/quynh-ho-420188171/) 
 
 ### Language and Tools:
 <p>
@@ -29,7 +32,8 @@ Language and Tools:
 <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="Bootstrap" height="40" style="vertical-align:top; margin:4px">
 </p>
 
-### Most recent projects:
+### Most Recent Full-Stack Projects:
+
 
 
 
