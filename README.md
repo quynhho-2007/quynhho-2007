@@ -3,9 +3,12 @@
 ### A passionate Junior Full Stack Developer from Vietnam, living in the Netherlands🇳🇱 !
 
 - 👩‍💻 Currently a student at Codaisseur (Feb 2021 - Apr 2021)
-- I am looking for a Full-Stack Developer position
+- :mortar_board: A fresh graduate in International Business Administration (Bachelor's Degree of Science) at :school: Radboud University Nijmegen
+- :mag: I am looking for a Full-Stack Developer position
 - 📍 Nijmegen, Netherlands
-- 📥 Reach me here: hovuthaoquynh@gmail.com or you can find me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/quynh-ho-420188171/) 
+- :email: Reach me here: hovuthaoquynh@gmail.com
+- You can find me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/quynh-ho-420188171/) 
+- :iphone: +31613289712
 
 
 ### Some more information about me
