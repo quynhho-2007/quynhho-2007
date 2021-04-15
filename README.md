@@ -8,7 +8,7 @@
 - 📍 Nijmegen, Netherlands
 - :email: Reach me here: hovuthaoquynh@gmail.com
 - You can find me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/quynh-ho-420188171/) 
-- :iphone: +31613289712
+
 
 
 ### Some more information about me
