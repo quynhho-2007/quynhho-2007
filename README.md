@@ -1,11 +1,11 @@
 ### Hey, I'm Quynh Ho Vu Thao 👋
 
-### A passionate Junior Full Stack Developer from Vietnam, living in the Netherlands🇳🇱 !
+### A passionate Junior Frontend Developer from Vietnam, working at Tradetomato and living in the Netherlands🇳🇱 !
 
-- 👩‍💻 Currently a student at Codaisseur (Feb 2021 - Apr 2021)
+- 👩‍💻  Graduated from Full-stack Web development bootcamp at Codaisseur (Feb 2021 - May 2021)
 - :mortar_board: A fresh graduate in International Business Administration (Bachelor's Degree of Science) at :school: Radboud University Nijmegen
-- :mag: I am looking for a Full-Stack Developer position
-- 📍 Nijmegen, Netherlands
+- :mag: I am learning and working with Vue 3 and TailwindCSS in my job. Also picking up Crytocurrency trading. 
+- 📍 Arnhem, Netherlands
 - :email: Reach me here: hovuthaoquynh@gmail.com
 - You can find me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/quynh-ho-420188171/) 
 
